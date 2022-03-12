@@ -1,0 +1,1 @@
+This is a tool for counting the number of terrain peices & styles for a set of lemmings nxlv levels.
